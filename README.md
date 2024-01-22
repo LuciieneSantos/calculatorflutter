@@ -1,6 +1,7 @@
 # teste
 
-A new Flutter project.
+Projeto basico feito em flutter.
+Ao testar, abrir o F12 e selecionar tela de celular.
 
 ## Getting Started
 
